@@ -7,7 +7,7 @@ $(document).ready(function(){
     $("button").hover(function(){
         $(this).css("background-color", "pink");
        }, function(){
-           $(this).css("background-color", "lightpink");
+           $(this).css("background-color", "aquamarine");
       });
       $("#nav li").hover(function(){
         $(this).css("color", "pink");
